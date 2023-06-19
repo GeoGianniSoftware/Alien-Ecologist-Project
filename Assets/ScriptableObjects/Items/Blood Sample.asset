@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d476fb3e84a88743893faecb42fbf42, type: 3}
+  m_Name: Blood Sample
+  m_EditorClassIdentifier: 
+  ID: 2
+  NAME: Blood Sample
+  TYPE: 2
+  PREFAB: {fileID: 9114827521218111410, guid: bb4ff32dbc29ffe4fa4b2c145d82c7f8, type: 3}
+  SPRITE: {fileID: 21300000, guid: 9f5ddc1343701364699e84879c534f1e, type: 3}
+  sampleOf: {fileID: 0}
+  sampleColor: {r: 0, g: 0, b: 0, a: 0}
+  timeAquired: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8c274574157f884f89e7de31be119da, type: 3}
+  m_Name: Crab
+  m_EditorClassIdentifier: 
+  animalName: Crab
+  maxHealth: 5
+  damage: 1
+  attackRange: 1
+  forageRange: 15
+  attackSuccessChance: 1
+  attackCooldown: 1.5
+  speed: 5
+  turningSpeed: 200
+  wanderRange: 5
+  obstacleRadius: 0.5
+  obstacleHeight: 1
+  animalGender: 0
+  currentState: 0
+  animalDiet: 0
+  creatureFoodType: {fileID: 11400000, guid: d586841b34ca7cc488f646c2dca3152e, type: 2}
+  mutations: []
+  onlyEatsAlive: 0
+  sexualDimorphism: 0
+  creatureColor: {r: 1, g: 0, b: 0, a: 0}
+  areaMask: 000000000200000003000000
+  maxHunger: 1
+  hungerPoint: 0
+  hungerRate: 1
+  foodValue: 0.1
+  prefabSlug: 

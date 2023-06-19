@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8c274574157f884f89e7de31be119da, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  animalName: Cow
+  maxHealth: 15
+  damage: 2
+  attackRange: 1
+  forageRange: 15
+  attackSuccessChance: 0
+  attackCooldown: 2
+  speed: 3
+  turningSpeed: 200
+  wanderRange: 15
+  obstacleRadius: 0.5
+  obstacleHeight: 0.5
+  heightOffset: 0
+  animalGender: 0
+  currentState: 0
+  animalDiet: 1
+  creatureFoodType: {fileID: 11400000, guid: d586841b34ca7cc488f646c2dca3152e, type: 2}
+  mutations: []
+  onlyEatsAlive: 0
+  sexualDimorphism: 1
+  creatureColor: {r: 0.13770342, g: 0.9080758, b: 0.684109, a: 1}
+  areaMask: 00000000
+  maxHunger: 1
+  hungerPoint: 0
+  hungerRate: 2
+  foodValue: 0.1
+  prefabSlug: 

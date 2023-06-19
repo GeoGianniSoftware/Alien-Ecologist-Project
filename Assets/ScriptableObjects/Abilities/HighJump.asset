@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e6b24db08704d34b90202a75c0117f6, type: 3}
+  m_Name: HighJump
+  m_EditorClassIdentifier: 
+  initialized: 1
+  amount: 15
+  cooldownTime: 5
+  playerBuff: {fileID: 11400000, guid: f51afb867f6e0b745b42b054acb28bff, type: 2}
